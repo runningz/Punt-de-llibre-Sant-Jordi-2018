@@ -1,6 +1,9 @@
 # Punt-de-llibre-Sant-Jordi-2018
 Punto de libro promocional para Sant Jordi 2018
 
+El diseño está realizado en Fusión360. 
+El GCODE incluido está optimizado para la Anet A6. Posiblemente en una Anet A8 funcionará tal cual sin problemas.
+
 ## Instrucciones de impresión en Cura
 
 ### Calidad
